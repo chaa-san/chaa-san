@@ -1,6 +1,8 @@
-<h1 align="center">Hi 👋, I'm Cheska</h1>
+<h1>Hi 👋, I'm Cheska</h1>
 <h3 align="center">I am a data enthusiast who finds joy in uncovering patterns, trends, and stories hidden within the numbers.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4435100/screenshots/15114878/media/4c6a0c6609a93d143bb24302f91a8657.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chaa-san&label=Profile%20views&color=0e75b6&style=flat" alt="chaa-san" /> </p>
 
 - 🔭 I’m currently working on **Anime Recommender**
 
@@ -10,7 +12,7 @@
 
 - 📫 How to reach me **cheska.santos00@gmail.com**
 
-- ⚡ Fun fact **I have a dark humor**
+- ⚡ Fun fact **I'm a sucker for 90's Movies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,5 +26,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chaa-san&show_icons=true&locale=en&layout=compact" alt="chaa-san" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chaa-san&show_icons=true&locale=en" alt="chaa-san" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaa-san&" alt="chaa-san" /></p>
