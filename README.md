@@ -1,8 +1,6 @@
 <h1>Hi 👋, I'm Cheska</h1>
-<h3 align="center">I am a data enthusiast who finds joy in uncovering patterns, trends, and stories hidden within the numbers.</h3>
+<h3>I am a data enthusiast who finds joy in uncovering patterns, trends, and stories hidden within the numbers.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4435100/screenshots/15114878/media/4c6a0c6609a93d143bb24302f91a8657.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chaa-san&label=Profile%20views&color=0e75b6&style=flat" alt="chaa-san" /> </p>
 
 - 🔭 I’m currently working on **Anime Recommender**
 
