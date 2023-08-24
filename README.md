@@ -8,7 +8,7 @@
 
 - 🤝 I’m looking for help with **Python and R**
 
-- 📫 How to reach me **cheska.santos00@gmail.com**
+- 📫 How to reach me **cheska.santos@torontomu.ca**
 
 - ⚡ Fun fact **I'm a sucker for 90's Movies**
 
