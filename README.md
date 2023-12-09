@@ -1,12 +1,12 @@
 <h1>Hi 👋, I'm Cheska</h1>
-<h3>I am a data enthusiast!</h3>
+<h3>I am a third year student!</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4435100/screenshots/15114878/media/4c6a0c6609a93d143bb24302f91a8657.gif">
 
-- 🔭 I’m currently working on **Anime Recommender**
+- 🔭 I’m currently working on **myself**
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently re-learning **Algorithm**
 
-- 🤝 I’m looking for help with **Python and R**
+- 🤝 I’m looking for help with **Interview Prep**
 
 - 📫 How to reach me **cheska.santos@torontomu.ca**
 
