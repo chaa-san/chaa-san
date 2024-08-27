@@ -1,12 +1,14 @@
-<h1>Hi 👋, I'm Cheska</h1>
-<h3>Cyber Security - Software Developer - 3D Artist</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4435100/screenshots/15114878/media/4c6a0c6609a93d143bb24302f91a8657.gif">
+<h1 align="center">Hi 👋 I'm Cheska</h1>
+<img align="right" alt="Coding" width="335" src="https://media1.tenor.com/m/w3APLkMuTX0AAAAC/computer-work.gif">
+<h3>👾 Cyber Security  ⚙️ Software Developer 📷 Photographer</h3>
 
-- 🌱 I’m currently re-learning **Algorithm**
+- 🌱 I’m currently reading [**Articulating Design Decisions**](https://www.indigo.ca/en-ca/articulating-design-decisions-communicate-with-stakeholders-keep-your-sanity-and-deliver-the-best-user-experience/9781492079224.html)
 
-- 👩🏻‍💻 all of my projects are available <a href="url">here</a>
+- 👩🏻‍💻 All of my projects are available <a href="url">**here**</a> <!--I'm still working on it and will link when completed-->
 
-- 📫 How to reach me **cheska.santos@torontomu.ca**
+- 🏔️ Here are some of my <a href="url">**shots**</a> <!--I'm still working on it and will link when completed-->
+
+- 📫 How to reach me **cheska.santos00@gmail.com**
 
 - ⚡ Fun fact **I'm a sucker for 90's Movies**
 
@@ -24,12 +26,12 @@
 </a>
 
 <a href="">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chaa-san&theme=github_dark&hide_border=true" alt="cheska's github streak" width="48%" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chaa-san&theme=github_dark&hide_border=true" alt="cheska's github streak" width="51%" >
 </a>
 
 ---
 
-### 🧑‍💻 Languages
+### ✨ Languages
 
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -38,7 +40,7 @@
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🧩 Frameworks/Libraries
+### 🕸 Frameworks/Libraries
 
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![nextjs](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -50,7 +52,7 @@
 
 ### 💅 UI Frameworks/Tools
 
-![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://itsrakesh.com)
+![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 <!--
 ![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
@@ -87,11 +89,11 @@
 ### 💻 Workspace
 
 ![Mac](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
-
+[![Windows](https://custom-icon-badges.demolab.com/badge/windows%20-0078D6?style=for-the-badge&logo=windows11&logoColor=white)](#)
 ---
 
 ### 🔝 Most used languages
 
-<a href="https://itsrakesh.com">
-<img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakeshPotnuru&theme=github_dark&hide_border=true&hide=Jupyter%20Notebook,css,html,scss&layout=compact" />
+<a href="">
+<img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaa-san&theme=github_dark&hide_border=true&hide=Jupyter%20Notebook,css,html,scss&layout=compact" />
 </a>
