@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Cheska</h1>
 <img align="right" alt="Coding" width="300" src="https://media1.tenor.com/m/w3APLkMuTX0AAAAC/computer-work.gif">
-<h3>👾 Cyber Security  ⚙️ Software Developer 📷 Photographer</h3>
+<h3>🚧 Path to Project Management</h3>
 
 - 🌱 I’m currently reading [**Articulating Design Decisions**](https://www.indigo.ca/en-ca/articulating-design-decisions-communicate-with-stakeholders-keep-your-sanity-and-deliver-the-best-user-experience/9781492079224.html)
 
